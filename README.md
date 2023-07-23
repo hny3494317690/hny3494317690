@@ -5,4 +5,4 @@
 </picture>
 <br>
 
-![↓↓↓hny最近都在听什么↓↓↓](https://spotify-recently-played-readme.vercel.app/api?user=31qv72qgdxs4mrkfiwa6kwfwsvwe&width=700&count=7)
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31qv72qgdxs4mrkfiwa6kwfwsvwe&width=700&count=7&unique=true)
