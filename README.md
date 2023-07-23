@@ -4,4 +4,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hny3494317690/hny3494317690/output/github-contribution-grid-snake.svg">
 </picture>
 <br>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qv72qgdxs4mrkfiwa6kwfwsvwe)
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31qv72qgdxs4mrkfiwa6kwfwsvwe)
